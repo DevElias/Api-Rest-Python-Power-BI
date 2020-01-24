@@ -34,6 +34,19 @@ POWER BI
 9.Insira a URL da API que você acabou de criar, perceba que passo a mesma URL local mais **/receitas** que é justamente a rota que criamos no arquivo de rotas para o metodo das receitas:
 ![](https://i.imgur.com/HwLs65u.jpg)
 
-10. Se tudo estiver codrreto, irá aparecer essas colunas **Record** que parece bizarro, mas na verdade esses são os dados brutos que vamos lapidalos no POWER BI em breve.
+10. Se tudo estiver correto, irá aparecer essas colunas **Record** que parece bizarro, mas na verdade esses são os dados brutos que vamos lapidalos no POWER BI em breve.
+
+11. Nessa tela clique em Para a Tabela
 
 ![](https://i.imgur.com/SYq3SO6.jpg)
+
+12. Clique em Aceita:
+
+![](https://i.imgur.com/RP5tZK8.jpg)
+
+13. Agora seus Dados já estão mais amigáveis em tabela para trabalhar com eles.
+
+![](https://i.imgur.com/NlpqQCM.jpg)
+
+
+
