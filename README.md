@@ -45,8 +45,29 @@ POWER BI
 ![](https://i.imgur.com/RP5tZK8.jpg)
 
 13. Agora seus Dados já estão mais amigáveis em tabela para trabalhar com eles.
+14. Clique em Aplicar e Fechar:
 
 ![](https://i.imgur.com/NlpqQCM.jpg)
 
+15. Seus dados serão levados para dentro do POWER BI onde vc pode começar a brincar da forma que lhe convém:
 
+![](https://i.imgur.com/tfo3ZEs.jpg)
+
+16. Daqui para frente você cria seus informes de acordo com sua necessidade e da sua empresa:
+
+![](https://i.imgur.com/W8dx6ZJ.jpg)
+
+
+DADOS ADICIONAIS:
+=================
+
+1. Caso você possua acesso a uma base de dados distinta a usada no exemplo que foi a base de dados de um ERP chamado ERPFlex,
+   Você pode conectar sua base de dados e efetuar as consultas SQL no seu banco de dados mudando as Consultas SQL no projeto.
+   
+   Essas Querys estão localizadas no diretório: **Controller/receita.py**
+
+Dúvidas em como utilizar esse projeto entre em contato comigo por e-mail
+eliasv.lima@yahoo.com.br
+
+Um Abraço!
 
