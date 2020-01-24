@@ -44,16 +44,20 @@ POWER BI
 
 ![](https://i.imgur.com/RP5tZK8.jpg)
 
-13. Agora seus Dados já estão mais amigáveis em tabela para trabalhar com eles.
-14. Clique em Aplicar e Fechar:
+13. Agora clique nas flechas indicadas na imagem e clique em aceitar:
+
+![](https://i.imgur.com/a9Wnn1L.jpg)
+
+14. Agora seus Dados já estão mais amigáveis em tabela para trabalhar com eles.
+15. Clique em Aplicar e Fechar:
 
 ![](https://i.imgur.com/NlpqQCM.jpg)
 
-15. Seus dados serão levados para dentro do POWER BI onde vc pode começar a brincar da forma que lhe convém:
+16. Seus dados serão levados para dentro do POWER BI onde vc pode começar a brincar da forma que lhe convém:
 
 ![](https://i.imgur.com/tfo3ZEs.jpg)
 
-16. Daqui para frente você cria seus informes de acordo com sua necessidade e da sua empresa:
+17. Daqui para frente você cria seus informes de acordo com sua necessidade e da sua empresa:
 
 ![](https://i.imgur.com/W8dx6ZJ.jpg)
 
