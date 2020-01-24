@@ -30,5 +30,6 @@ POWER BI
 8. É fundamental você ter um usuário criado no Power BI, faça seu login na ferramenta e em seguida, vá até a opção de Menu Obter Dados > Web:
 
 ![](https://i.imgur.com/szuVMLJ.jpg)
+
 9.Insira a URL da API que você acabou de criar, perceba que passo a mesma URL local mais /receitas que é justamente a rota que criamos no arquivo de rotas para o metodo das receitas:
 ![](https://i.imgur.com/HwLs65u.jpg)
