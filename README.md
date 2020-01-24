@@ -31,5 +31,9 @@ POWER BI
 
 ![](https://i.imgur.com/szuVMLJ.jpg)
 
-9.Insira a URL da API que você acabou de criar, perceba que passo a mesma URL local mais /receitas que é justamente a rota que criamos no arquivo de rotas para o metodo das receitas:
+9.Insira a URL da API que você acabou de criar, perceba que passo a mesma URL local mais **/receitas** que é justamente a rota que criamos no arquivo de rotas para o metodo das receitas:
 ![](https://i.imgur.com/HwLs65u.jpg)
+
+10. Se tudo estiver codrreto, irá aparecer essas colunas **Record** que parece bizarro, mas na verdade esses são os dados brutos que vamos lapidalos no POWER BI em breve.
+
+![](https://i.imgur.com/SYq3SO6.jpg)
