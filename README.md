@@ -1,7 +1,7 @@
 # Api REST em Python + POWER BI
 Criação de uma API de Receitas comunicando com o ERPFlex e disponibilizando os dados em JSON para o POWER BI
 
-Tutorial de Configuração Incial - Python
+Histórico de Configuração - Python
 =======================================
 
 1. Acesse o diretório Model/db_config.py
