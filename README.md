@@ -4,6 +4,13 @@ Criação de uma API de Receitas comunicando com o ERPFlex e disponibilizando os
 Histórico de Configuração - Python
 =======================================
 
+```python
+pip install mysql-connector-python
+pip install Flask
+pip install simplejson
+pip install pprint
+```
+
 1. Acesse o diretório Model/db_config.py
 
 2. Informe os parâmetros de comunicação com o Banco de Dados (Host, User,Password e database):
